@@ -7,6 +7,6 @@ Just a simple repository to learn about PyTorch.
 Having [Anaconda](https://anaconda.org/) installed, run the commands below to install the dependencies.
 
 ```
-conda create -f env..yml
+conda create -f env.yml
 conda activate pytorch
 ```
